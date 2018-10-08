@@ -14,7 +14,7 @@ public class Main {
 
         Scanner scan = new Scanner(System.in);
 
-        for ( int n = 0; n<3; n++ ){
+        for (int n = 0; n < 3; n++) {
             num = scan.nextInt();
             sum += num;
 
@@ -22,7 +22,8 @@ public class Main {
 
         String str = scan.next();
 
-        System.out.println( sum + " " + str );
+        System.out.println(sum + " " + str);
 
     }
+
 }
