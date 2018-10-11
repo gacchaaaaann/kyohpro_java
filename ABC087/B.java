@@ -2,7 +2,7 @@ package ABC087;
 
 import java.util.Scanner;
 
-public class Main {
+public class B {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
